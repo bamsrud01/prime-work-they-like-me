@@ -1,0 +1,16 @@
+{
+  "name": "they-like-me",
+  "version": "1.0.0",
+  "description": "Group project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Barrett Amsrud, Julie Mike, Alex Whitaker",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
