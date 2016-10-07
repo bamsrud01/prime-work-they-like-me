@@ -5,7 +5,7 @@ var router = express.Router();
 var bios = [
   { firstName: 'Barrett',
     lastName: 'Amsrud',
-    bio: 'I like problem solving and I\'m excited to be here.',
+    bio: 'I like problem solving and I\'m excited to be here.  I\'m allergic to life.',
     photo: 'assets/images/Barrett.jpeg'},
   { firstName: 'Alex',
     lastName: 'Whitaker',
