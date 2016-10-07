@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-//  Exstablish the starting likes for each person
+//  Establish the starting likes for each person
 var likes = {
   Barrett: 0,
   Alex: 0,

@@ -1,4 +1,4 @@
-//Needs to append photos, info, buttons, and likes
+//  Document ready
 $(function() {
 
   //  Append the information for people to the DOM
@@ -62,10 +62,3 @@ function postLikes(person) {
     }
   });
 }
-
-
-
-
-
-
-//
